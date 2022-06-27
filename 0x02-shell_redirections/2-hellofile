@@ -1,2 +1,2 @@
 #!/bin/bash
-fmt /root/etc/passwd
+cat /etc/passwd
