@@ -1,2 +1,2 @@
 #!/bin/bash
-more pom.xml /etc/passwd /etc/hosts
+cat /etc/passwd; cat /etc/passwd
